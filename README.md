@@ -1,5 +1,5 @@
 # mi-proyecto-web
-# Proyecto Web - NatiTech
+# NatiTech
 
   
 Consiste en una pagina web hecha con **HTML, CSS y JavaScript**, que muestra la marca **NatiTech**, dedicada solo a la venta de equipos de computo.
